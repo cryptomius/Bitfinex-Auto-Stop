@@ -9,7 +9,7 @@ To use it:
 1. Download nodeJS: [https://nodejs.org/en/download/](https://nodejs.org/en/download/) and install it
 2. Download [Bitfinex’s nodeJS library](https://github.com/bitfinexcom/bitfinex-api-node/) and place it somewhere on your computer.
 3. Open your Terminal app, `cd` to the directory you placed it and then execute `npm i bitfinex-api-node` to install the nodeJS library
-4. Copy the ‘entryWithStop.js’ file into the same directory, then open it with a text editor (I use Sublime Text)
+4. Copy the ‘[entryWithStop.js](https://raw.githubusercontent.com/cryptomius/Bitfinex-Auto-Stop/master/entryWithStop.js)’ file into the same directory, then open it with a text editor (I use Sublime Text)
 5. Enter in your Bitfinex API keys, trading pair, entry price, stop price, direction (long/short), etc. 
 6. Execute `node entryWithStop` and you’re in action.
 
